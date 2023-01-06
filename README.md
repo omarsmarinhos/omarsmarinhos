@@ -46,7 +46,7 @@
 [![GitHub
 Streak](https://streak-stats.demolab.com?user=omarsmarinhos&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
-![AntonioSotoAS GitHub
+![omarsmarinhos GitHub
 stats](https://github-readme-stats.vercel.app/api?username=omarsmarinhos&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarsmarinhos&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
