@@ -50,6 +50,7 @@
 
 [![GitHub
 Streak](https://streak-stats.demolab.com?user=omarsmarinhos&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omarsmarinhos&hide_border=true" />
 
 ![AntonioSotoAS GitHub
 stats](https://github-readme-stats.vercel.app/api?username=omarsmarinhos&show_icons=true&theme=dark)
