@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Omar Mariños</h1>
+    <h1 align="center">Hi 👋, I'm Omar Santos Mariños Aguilar</h1>
         👨‍🎓I am a Systems Engineering student and Java Backend Developer |👨‍💻During my studies,
         I have worked on several projects using different technologies and tools and have developed extensive
         experience in web application development | 🎯My goal is to continue growing as a software developer
