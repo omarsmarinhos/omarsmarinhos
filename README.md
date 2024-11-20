@@ -19,7 +19,7 @@
 <div align="left"></div>
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about **Java, Spring Boot, Javascript , Mysql
+- 💬 Ask me about **Java, Spring Boot, C#, .NET, Javascript, Angular, Mysql, SQL Server
 
 - 📫 How to reach me **omarmarinosaguilar@gmail.com**
 
