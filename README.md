@@ -48,9 +48,3 @@
 ### 📊 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarsmarinhos&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![omarsmarinhos GitHub
-stats](https://github-readme-stats.vercel.app/api?username=omarsmarinhos&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarsmarinhos&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
