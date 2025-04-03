@@ -47,4 +47,4 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarsmarinhos&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=omarsmarinhos&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
